@@ -1,0 +1,2 @@
+# Automating-Rates-Data-Extraction
+In the current age of data, there are vast amounts of data that can be accessed for free. This is the case of the European Central Bank - Statistical Data Warehouse which holds data regarding the daily or monthly rates of some currencies. In this small project I create a python script that allows for automatic data extraction from the website. By running this code everyday you can extract the required data from the website and it will automatically detect if your current file is already up to date, if not, it uploads the new data.
